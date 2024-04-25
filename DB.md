@@ -308,3 +308,6 @@
     - TRUNCATE :  내림 (자릿수 설정 가능)
     - CEILING : 소숫점 올림(자릿수 설정 불가능)
     - FLOOR : 소숫점 버림 (자릿수 설정 불가능)
+
+
+<참고자료: https://gr-st-dev.tistory.com/2834>
